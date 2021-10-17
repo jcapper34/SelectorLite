@@ -1,2 +1,2 @@
-# selector-lite
+# SelectorLite
 Lightweight Selector Library for Javascript
